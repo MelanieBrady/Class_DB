@@ -1,0 +1,10 @@
+last_updated
+refresh.sh
+db/
+database/
+web/node_modules
+api/node_modules
+node_moduoles
+web/package-lock.json
+web/package-lock.json
+web/package-lock.json
